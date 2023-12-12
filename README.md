@@ -1,3 +1,22 @@
+#Welcome
+
+This is our prototype website build for all the  artists around the world to showcase there beautiful art works all around the world.
+
+
+The webiste is equipped with several features:
+
+Gallery
+Safety 
+Upload of Images
+About info of artist
+Contact info of artist
+Amazing UI design
+
+
+We still believe we have more work to put on this website.Any reccomendations is welcome.
+
+Thank you for watching our project. Stay safe!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
