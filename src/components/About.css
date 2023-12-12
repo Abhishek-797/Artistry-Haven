@@ -1,0 +1,25 @@
+/* About.css */
+
+.about-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #007bff; /* Optional: Add color to headings */
+  }
+  
+  h2 {
+    margin-top: 20px;
+    color: rgba(236, 6, 6, 0.875); /* Optional: Add color to headings */
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  

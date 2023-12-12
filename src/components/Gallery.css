@@ -1,0 +1,29 @@
+/* Gallery.css */
+
+.gallery-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .image-box {
+    position: relative;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 200px;
+    height: 300px;
+    transition: transform 0.3s ease-in-out; /* Add transition for smooth effect */
+  }
+  
+  .image-box:hover {
+    transform: scale(1.1); /* Increase size on hover */
+  }
+  
+  .image-box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
